@@ -1,0 +1,16 @@
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.csproj.AssemblyReference.cache
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.csproj.SuggestedBindingRedirects.cache
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.Home.resources
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.Properties.Resources.resources
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.csproj.GenerateResource.cache
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.csproj.CoreCompileInputs.cache
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\bin\Debug\WFA_Members.exe.config
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\bin\Debug\WFA_Members.exe
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\bin\Debug\WFA_Members.pdb
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\bin\Debug\Newtonsoft.Json.dll
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\bin\Debug\Newtonsoft.Json.xml
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.csproj.CopyComplete
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.exe
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.pdb
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.frmGetAllCustomers.resources
+C:\Users\drp\source\repos\WFA_Members\WFA_Members\obj\Debug\WFA_Members.frmFindOrDelete.resources
